@@ -14,7 +14,7 @@ A back end API to use for a social media platform where users can create post, a
 - test it on on a program like insonmia core
 
 link to demo video to see it in action
-https://drive.google.com/drive/folders/1Jcfuo6qIIChNP7DJ_zzHJoD-7eLGjkir
+https://drive.google.com/file/d/1dOg8OZOKNZHEhyHkpq0Xe0Aa_2NoLvW4/view?usp=sharing
 
 
  ## Questions? Contact me
